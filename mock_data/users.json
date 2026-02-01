@@ -1,0 +1,8 @@
+{
+  "users": [
+    {"name": "alice", "lastLogin": "2026-01-15T10:00:00Z", "siteRole": "Creator"},
+    {"name": "bob", "lastLogin": "2025-09-01T09:00:00Z", "siteRole": "Viewer"},
+    {"name": "charlie", "lastLogin": "2026-01-22T08:30:00Z", "siteRole": "Explorer"},
+    {"name": "david", "lastLogin": null, "siteRole": "Viewer"}
+  ]
+}
